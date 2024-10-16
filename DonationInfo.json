@@ -1,0 +1,14 @@
+{
+	"dateString": "20 of Sep 2024",
+	"entries": {
+		"$test": [
+			{
+				"nickname": "Snowy"
+			},
+		]
+	},
+	"tiers": [
+		"$test"
+	],
+	"unixTime": 1726841586
+}
